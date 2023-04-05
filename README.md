@@ -12,3 +12,4 @@ a3 from Master
 a from feature a
 from master
 any in master
+any from Master
